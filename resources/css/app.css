@@ -11,8 +11,7 @@ td {
     text-align: center;
 }
 
-.card-header h1,
-.card-body h1 {
+.card-header h1 {
     text-align: center;
     margin-bottom: 20px;
 }
